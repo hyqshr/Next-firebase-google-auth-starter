@@ -1,4 +1,5 @@
-Next.js 13 starter template with **firebase google auth**, **shadcn** ui. **Navbar** included. Fast starter for small project. Feel free to make contribution!
+Next.js 13 starter template with google auth firebase, shadcn ui. Navbar included. Feel free to make contribution!
+![image](https://github.com/hyqshr/Next-firebase-google-auth-starter/assets/63976795/aa9c1686-54e8-4d87-9383-047052c01534)
 
 ## Feature
 
